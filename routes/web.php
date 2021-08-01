@@ -22,4 +22,7 @@ Route::get('/', function () {
 Route::get('/page', function () {
     return view('page-one');
 });
+Route::get('/catalogs', function () {
+    return view('catalogs');
+});
 
