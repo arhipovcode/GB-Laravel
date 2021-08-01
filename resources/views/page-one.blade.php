@@ -8,8 +8,8 @@
 </head>
 <body>
     <div class="container" style="width: 1170px; margin: 0 auto">
-        <h1>Привет Laravel!</h1>
-        <a href="/page">Перейти на другую страницу</a>
+        <h1>Это другая страниуа</h1>
+        <a href="/">Перейти на главную</a>
     </div>
 
 </body>
